@@ -1,5 +1,5 @@
 ### Hello
-im Michael, i'm currently still on how to code phase and still trying to figure out how things work.
+i'm Michael, and i'm currently still on "how to code" phase also still trying to figure out how things work.
 thanks for stopping by...
 
 <!--
